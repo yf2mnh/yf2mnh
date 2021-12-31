@@ -1,7 +1,8 @@
 ### Hi there 👋
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![2022](https://user-images.githubusercontent.com/69894374/147799201-2e140e95-d6d3-45ab-a6c5-8a38d39c32d7.gif)
 <!--
 **yf2mnh/yf2mnh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
